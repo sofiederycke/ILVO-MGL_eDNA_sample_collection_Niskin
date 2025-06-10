@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: sample collection
-project: # can be general
+project: ILVO Marine Genomics Lab Group protocols
 purpose: biodiversity assessment objective [OBI:0001969]
 analyses: filtration [OBI:0302885], environmental material collection process [OBI:0600012]
 geographic_location: # Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853]

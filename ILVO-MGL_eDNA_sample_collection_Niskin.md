@@ -57,9 +57,9 @@ samp_size_unit: mL
 
 | PREPARED BY  | AFFILIATION  | ORCID        | DATE       |
 | ------------ | ------------ | ------------ | ---------- |
-| Content Cell | Content Cell | Content Cell | yyyy-mm-dd |
-| Content Cell | Content Cell | Content Cell | yyyy-mm-dd |
-
+| Sofie Derycke | ILVO Marine, MGL | 0000-0003-3763-6187 | 2025-06-22 |
+| Isolde Cornelis | ILVO Marine, MGL | 0009-0006-0636-2477 | yyyy-mm-dd |
+| Sara Maes | ILVO Marine, MGL | 0000-0003-2868-4769 | yyyy-mm-dd |
 ### Related Protocols
 
 - This section contains protocols that should be known to users of this protocol.

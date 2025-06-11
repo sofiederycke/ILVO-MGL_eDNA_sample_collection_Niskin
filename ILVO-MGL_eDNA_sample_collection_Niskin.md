@@ -3,8 +3,8 @@
 methodology_category: sampling collection procedure
 project: ILVO Marine Genomics Laboratory Group protocols
 purpose: biodiversity assessment objective [OBI:0001969]
-analyses: __filtration [OBI:0302885],__ environmental material collection process [OBI:0600012]
-geographic_location: North Sea [GAZ:00002284] 
+analyses: environmental material collection process [OBI:0600012]
+geographic_location: North Sea [GAZ:00002284], Southern Bight [GAZ_00050972] 
 broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], neritic pelagic zone biome [ENVO:01000032]
 local_environmental_context: coastal sea water [ENVO:03605019]
 environmental_medium: sea water [ENVO:00002149]
@@ -114,23 +114,23 @@ This protocol uses Niskin bottles mounted on a CTD rosette onboard a research ve
 
 ### Spatial Coverage and Environment(s) of Relevance
 
-If applicable, please specify the region where the protocol is applied. For regional term guidance see the [GAZ ontology](https://www.ebi.ac.uk/ols4/ontologies/gaz). If applicable, please indicate here the environment(s) of relevance for the protocol, e.g. Abyssal plain. Select from the [ENVO ontology](https://www.ebi.ac.uk/ols4/ontologies/envo).
+This protocol has been applied for hundreds of samples collected in the southern North Sea. Samples have been collected in  in the belgian part of the North Sea during yearly campaigns in autumn since 2021 at various distances from shore (coastal, transition and offshore locations). This protocol is also applied for surveys in the southern bight of the North Sea (maximum depth 50 m). All samples are taken in the photic zone and are situated in the neritic pelagic zone. 
 
 ## PERSONNEL REQUIRED
 
-Insert the number of technicians, data managers, and scientists required for the good execution of the procedure
+One technician or scientist with experience in sterile and clean working. Recommend research vessel experience.
 
 ### Safety
 
-Identify hazards associated with the procedure and specify protective equipment and safety training required to safely execute the procedure
+This protocol does not involve any hazardous chemicals, although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and ethanol.
 
 ### Training Requirements
 
-Specify technical training required for the good execution of the procedure.
+Molecular biology training (including, at a minimum, sterile technique) is required to conduct this protocol. Experience with going to sea and sample collection under seagoing conditions is encouraged, at a minimum personel should be trained to handle the CTD software before the first deployment at sea.
 
 ### Time Needed to Execute the Procedure
 
-Specify how much time is necessary to execute the procedure.
+The time needed varies based on the number and type of samples collected. For a majority of our sampling, five niskin bottles on a CTD rosette are triggered to collect sea water at one depth (e.g., 1-3 m off bottom depending on the weather conditions). Then  a singular sample is collected from each niskin. A cast in the southern Bight of the North Sea is at most 50 m deep and takes roughly 10 minutes (including 3 minutes of calibration time for the CTD sensors). Collecting samples from the niskins take between 5-10 minutes, depending on access and size of the Niskin bottle (larger botlles are faster to subsample because there is more pressure on the water to flow out of the Niskin spout/spigot). The total collection time for a singular cast with five niskins triggered and one sample taken from each niskin is 35 minutes on average. More casts, more samples = more time.
 
 ## EQUIPMENT
 

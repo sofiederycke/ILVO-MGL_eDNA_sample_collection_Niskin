@@ -106,13 +106,11 @@ This document describes the required protocol to conduct [insert name of the met
 
 ### Summary
 
-Insert a short description of the background for the method/protocol (e.g. why and for which purpose do you perform water sampling).
-Please provide a brief summary of your method including, as appropriate, a brief description of what techniques your best practice is about, which ocean environments or regions it targets, the primary sensors covered, what type of data/measurements/observing platform it covers, limits to its applicability.
+This protocol is intended to perform eDNA analyses to assess marine biodiversity patterns in the Belgian part of the North sea; the geographical area is a shallow marine system, with water depths ranging between 7 and 30 m and with no halocline. Previous research in this area has shown that biodiversity patterns assessed with surface or bottom samples are similar (Dukan et al. 2024). Consequently, seawater sample collection is done at one depth, between 1 and 3 m above the seafloor, to increase detection of epibenthic species. 
 
 ### Method Description and Rationale
 
-Insert a short description of the functioning principal of the methodology used in the protocol (i.e. how does the method work?). Please note that this is different from the step-by-step description of the protocol procedure.
-Insert a short statement explaining why the specific methodology used in the protocol has been selected (e.g. it is highly reproducible, highly accurate, procedures are easy to execute etc….).
+This protocol uses Niskin bottles mounted on a CTD rosette onboard a research vessel to collect seawater. In each sample location, five Niskin bottles are filled with seawater collected at a depth of 1 to 3 m above the seafloor. From each Niskin bottle, a subsample of 2L is collected for further processing in the lab. This processing involves filtering of the water using sterivex 0.45µm capsule filters, which are then used for eDNA extraction and metabarcoding. 
 
 ### Spatial Coverage and Environment(s) of Relevance
 

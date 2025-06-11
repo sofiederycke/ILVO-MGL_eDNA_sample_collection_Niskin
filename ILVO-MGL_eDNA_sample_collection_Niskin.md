@@ -1,23 +1,23 @@
 ---
 # MIOP terms
-methodology_category: sample collection
-project: ILVO Marine Genomics Lab Group protocols
+methodology_category: sampling collection procedure
+project: ILVO Marine Genomics Laboratory Group protocols
 purpose: biodiversity assessment objective [OBI:0001969]
-analyses: filtration [OBI:0302885], environmental material collection process [OBI:0600012]
-geographic_location: # Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853]
-broad_scale_environmental_context: # marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
-local_environmental_context: # marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
+analyses: __filtration [OBI:0302885],__ environmental material collection process [OBI:0600012]
+geographic_location: North Sea [GAZ:00002284] 
+broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], neritic pelagic zone biome [ENVO:01000032]
+local_environmental_context: coastal sea water [ENVO:03605019]
 environmental_medium: # sea water [ENVO:00002149]
-target: deoxyribonucleic acid (DNA) [NCIT:C449]
-creator: # names separated by commas
-materials_required: filtration [OBI:0302885]
-skills_required: sterile technique, pipetting skills, standard molecular technique, research vessel experience
-time_required: # minutes (integer)
+target: deoxyribonucleic acid (DNA) [NCIT:C449], environmental DNA [NCIT:C169106]
+creator: Sofie Derycke, Isolde Cornelis, Sara Maes
+materials_required: CTD rosette, 2L plastic bottles
+skills_required: sterile technique, standard molecular technique, research vessel experience
+time_required: 15
 personnel_required: 1
 language: en
-issued: # YYYY-MM-DD
+issued: 2025-06-11
 audience: scientists
-publisher: # institution
+publisher: ILVO Marine Genomics Laboratory
 hasVersion: 1
 license: CC0 1.0 Universal
 maturity level: mature

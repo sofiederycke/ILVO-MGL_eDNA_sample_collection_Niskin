@@ -7,7 +7,7 @@ analyses: __filtration [OBI:0302885],__ environmental material collection proces
 geographic_location: North Sea [GAZ:00002284] 
 broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], neritic pelagic zone biome [ENVO:01000032]
 local_environmental_context: coastal sea water [ENVO:03605019]
-environmental_medium: # sea water [ENVO:00002149]
+environmental_medium: sea water [ENVO:00002149]
 target: deoxyribonucleic acid (DNA) [NCIT:C449], environmental DNA [NCIT:C169106]
 creator: Sofie Derycke, Isolde Cornelis, Sara Maes
 materials_required: CTD rosette, 2L plastic bottles
@@ -23,18 +23,18 @@ license: CC0 1.0 Universal
 maturity level: mature
 
 # FAIRe terms
-samp_category: # sample
-env_broad_scale: # marine biome [ENVO:00000447]
-env_local_scale: # marine photic zone [ENVO:00000209]
-env_medium: # sea water [ENVO:00002149]
-habitat_natural_artificial_0_1: # 0
-samp_collect_method: # CTD rosette
-samp_collect_device: # Niskin bottle
-samp_size: # 1000
-samp_size_unit: # mL
+samp_category: sample
+env_broad_scale: marine biome [ENVO:00000447]
+env_local_scale: coastal sea water [ENVO:03605019]
+env_medium: sea water [ENVO:00002149]
+habitat_natural_artificial_0_1: 0
+samp_collect_method: CTD rosette
+samp_collect_device: Niskin bottle
+samp_size: 2000
+samp_size_unit: mL
 ---
 
-# Protocol Template - Sampling
+# ILVO MGL eDNA Sample Collection Protocol with Niskin
 
 ## PROTOCOL INFORMATION
 

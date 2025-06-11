@@ -57,7 +57,7 @@ samp_size_unit: mL
 
 | PREPARED BY  | AFFILIATION  | ORCID        | DATE       |
 | ------------ | ------------ | ------------ | ---------- |
-| Sofie Derycke | ILVO Marine, MGL | 0000-0003-3763-6187 | 2025-06-22 |
+| Sofie Derycke | ILVO Marine, MGL | 0000-0003-3763-6187 | 2025-06-11 |
 | Isolde Cornelis | ILVO Marine, MGL | 0009-0006-0636-2477 | yyyy-mm-dd |
 | Sara Maes | ILVO Marine, MGL | 0000-0003-2868-4769 | yyyy-mm-dd |
 ### Related Protocols
@@ -80,21 +80,25 @@ samp_size_unit: mL
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | yyyy-mm-dd | Initial release |
+| 1.0.0 | 2025-06-11 | Initial release |
 
 ### Acronyms and Abbreviations
 
 | ACRONYM / ABBREVIATION | DEFINITION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|ILVO | Flanders Research Institute for Agriculture, Fisheries and Food |
+|CTD | Conductivity Temperature Depth |
+|DNA	|Deoxyribonucleic acid |
+|eDNA	|environmental DNA |
+|EtOH | Ethanol |
 
 ### Glossary
 
 | SPECIALISED TERM | DEFINITION |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Conductivity, Temperature, Depth (CTD) sensor | Sensor used to measure temperature, conductivity and pressure. Additional sensors are often attached to the frame of the deployable CTD frame (oxygen, chlorophyll, pH, etc.) to collect additional data. Often, niskin bottles are attached to the same deployable metal frame as the CTD and ancilliary sensors so that water parameter data are collected alongside niskin water samples. Deployments of this suite of instruments and sensors on the same frame is often referred to as a "CTD cast". |
+| Field blank | Sampling negative control. Typically distilled or reverse osmosis water run through a filter like a seawater eDNA sample to control for contamination in the field sampling step.  |
+| Niskin bottle  | Plastic cylindrical bottle of varying volumes for collecting descrete water samples. A stopper at each end of the bottle can be "cocked" open with an electronic or weight triggered release mechanism causing the stoppers to snap shut. This is remotely triggered so the bottle closes at a prescribed depth. Often, multiple bottles are arranged on the same frame as a CTD and other sensors in a "rosette". |
 
 ## BACKGROUND
 

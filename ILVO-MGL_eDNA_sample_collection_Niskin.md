@@ -159,11 +159,13 @@ In the following SOP, please use the exact names of equipment as noted in the ta
 Provide a step-by-step description of the protocol. The identification of difficult steps in the protocol and the provision of recommendations for the execution of those steps are encouraged.
 
 ### Preparation
+**Immediately before sampling**
 
-Please specify the preparatory actions you took before you collected the samples and note what equipment was needed to do so (e.g. disinfection of work surfaces, preparations to the equipment you intend to use later on).
+Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a squirt bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
 
-1. [Step 1]
-2. [Step 2]
+2L plastic bottles (commercial drinking water bottles): label five 2L bottles containing commercial drinking water with the pre-printed labels (NameStation_ReplicateNumber) onto the side of the bottles and write down the location and date on the bottle itself with the marker  
+
+Niskin bottles: open six bottles at the top, close the bottom and close the faucet; pour 2L drinking water in each Niskin bottle; open the faucet to flush it with the drinking water; afterwards, open the bottom to remove the remaining water.  
 
 ### Sampling
 

@@ -99,19 +99,19 @@ samp_size_unit: mL
 | Conductivity, Temperature, Depth (CTD) sensor | Sensor used to measure temperature, conductivity and pressure. Additional sensors are often attached to the frame of the deployable CTD frame (oxygen, chlorophyll, pH, etc.) to collect additional data. Often, niskin bottles are attached to the same deployable metal frame as the CTD and ancilliary sensors so that water parameter data are collected alongside niskin water samples. Deployments of this suite of instruments and sensors on the same frame is often referred to as a "CTD cast". |
 | Field blank | Sampling negative control. Typically distilled or reverse osmosis water run through a filter like a seawater eDNA sample to control for contamination in the field sampling step.  |
 | Niskin bottle  | Plastic cylindrical bottle of varying volumes for collecting discrete water samples. A stopper at each end of the bottle can be "cocked" open with an electronic or weight triggered release mechanism causing the stoppers to snap shut. This is remotely triggered so the bottle closes at a prescribed depth. Often, multiple bottles are arranged on the same frame as a CTD and other sensors in a "rosette". |
-|CTD cast| refers to the lowering and raising of a CTD instrument into the sea to make profiles of conductivity, temperature and depth.
+| CTD cast | refers to the lowering and raising of a CTD instrument into the sea to make profiles of conductivity, temperature and depth.
 
 ## BACKGROUND
 
-This document describes the protocol to collect seawater with Niskin bottles for eDNA analyses. At ILVO, we have been collecting eDNA water samples since 2019, and have modified our collection protocol based on practical experience onboard the research vessels and on sequencing results from various campaigns. This version of the protocol has been developped in the framework of the eDNAqua-Plan project which aims to make eDNA datasets FAIR. 
+This document describes the protocol to collect seawater with Niskin bottles for eDNA analyses. At ILVO, we have been collecting eDNA water samples since 2019, and have modified our collection protocol based on practical experience onboard the research vessels, based on sequencing results from various campaigns and based on review comments from the journal Environmental DNA. This version of the protocol has been developped in the framework of the eDNAqua-Plan project which aims to design a digital landscape that makes eDNA datasets FAIR. 
 
 ### Summary
 
-This protocol is intended to perform eDNA analyses to assess marine biodiversity patterns in the Belgian part of the North sea; the geographical area is a shallow marine system, with water depths ranging between 7 and 30 m. There is no halocline and water is well mixed in this area. Previous research has shown that biodiversity patterns assessed with surface (1 m below surface) or bottom (1-3m above seafloor) samples are similar (Dukan et al. 2024). Consequently, seawater sample collection is done at one depth, between 1 and 3 m above the seafloor, to increase detection of epibenthic species. 
+This protocol is intended to collect eDNA onboard research vessels to assess marine biodiversity patterns in the Belgian part of the North sea using eDNA; the geographical area is a shallow marine system, with water depths ranging between 7 and 30 m. There is no halocline and water is well mixed in this area. Previous research has shown that biodiversity patterns assessed with surface (1 m below surface) or bottom (1-3m above seafloor) samples are similar (Dukan et al. 2024). Consequently, seawater sample collection is done at one depth, between 1 and 3 m above the seafloor, to increase detection of epibenthic species. 
 
 ### Method Description and Rationale
 
-This protocol uses Niskin bottles mounted on a CTD rosette onboard a research vessel to collect seawater. In each sample location, five Niskin bottles are filled with seawater collected at a depth of 1 to 3 m above the seafloor. From each Niskin bottle, a subsample of 2L is collected. The number of Niskin bottles in a location has been determined based on collecting 10 Niskin bottles in five stations located in known fish communities (coastal, transition and offshore). 12S metabarcoding results showed an increased number of fishes detected with increasing number of replicates. A trade-off between sampling effort and maximal detection of the common fishes led to the collection of 5 bottles to adequately describe fish biodiversity patterns. If rare species are also of interest, then more Niskin bottles should be collected. Increasing the number to 10 bottles leads on average to the detection of four extra species. Depending on the research vessel, further processing is done in a separate lab onboard (RV Belgica) or in the lab at ILVO (Simon Stevin). This processing involves filtering of the water using sterivex 0.45µm capsule filters, which are then used for eDNA extraction and metabarcoding. 
+This protocol uses Niskin bottles mounted on a CTD rosette onboard a research vessel to collect seawater. In each sample location, five Niskin bottles are filled with seawater collected at a depth of 1 to 3 m above the seafloor. From each Niskin bottle, a subsample of 2L is collected. The number of Niskin bottles in a location has been determined based on collecting 10 Niskin bottles in five stations located in known fish communities (coastal, transition and offshore). 12S metabarcoding results showed an increased number of fishes detected with increasing number of replicates. A trade-off between sampling effort and maximal detection of the common fishes led to the collection of 5 bottles to adequately describe fish biodiversity patterns. If rare species are also of interest, then more Niskin bottles should be collected. Increasing the number to 10 bottles leads on average to the detection of four extra species. Depending on the research vessel, further processing is done in a separate lab onboard (RV Belgica) or in the lab at ILVO (Simon Stevin). This processing involves filtering of the water using sterivex 0.45µm capsule filters, which are then used for eDNA extraction and metabarcoding or dPCR. 
 
 ### Spatial Coverage and Environment(s) of Relevance
 
@@ -131,7 +131,7 @@ Training for working onboard a research vessel and for working sterile is requir
 
 ### Time Needed to Execute the Procedure
 
-The time needed varies based on the number and type of samples collected. For a majority of our sampling, five niskin bottles on a CTD rosette are triggered to collect sea water at one depth (e.g., 1-3 m off bottom depending on the weather conditions). Then a singular sample is collected from each niskin. A cast in the southern Bight of the North Sea is at most 50 m deep and takes roughly 10 minutes (including 3 minutes of calibration time subsurface for the CTD sensors). Collecting a 2L subsample from one niskins take between 2-5 minutes, depending on access and size of the Niskin bottle (larger botlles are faster to subsample because there is more pressure on the water to flow out of the Niskin spout/spigot). The total collection time for a singular cast with five niskins triggered and one sample taken from each niskin is 35 minutes on average.
+The time needed varies based on the number and type of samples collected. For a majority of our sampling, five niskin bottles on a CTD rosette are triggered to collect sea water at one depth (e.g., 1-3 m off bottom depending on the weather conditions). Then a singular sample is collected from each niskin. A cast in the southern Bight of the North Sea is at most 50 m deep and takes roughly 10 minutes (including 3 minutes of calibration time subsurface for the CTD sensors). Collecting a 2L subsample from one niskin takes between 2-5 minutes, depending on access and size of the Niskin bottle (larger botlles are faster to subsample because there is more pressure on the water to flow out of the Niskin spout/spigot). The total collection time for a singular cast with five niskins triggered and one sample taken from each niskin is 35 minutes on average.
 
 ## EQUIPMENT
 
@@ -145,20 +145,24 @@ The time needed varies based on the number and type of samples collected. For a 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
 | Commercial drinking water bottles | 2L Everyday | Colruyt | 5 per cast | Can be substituted with similar clean drinking water bottles  |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Prefilter mesh | 200µm mesh size | Generic | 5 percast |Must be sterilized with 10% bleach and sterile MilliQ water |
+| Wash bottles | safety wash bottle 500 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
+| Prefilter mesh | 200µm mesh size | Generic | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
+| 10L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
+| PMD bags | Plastic bags to collect the empty water bottles | Generic | 2 | Can be substituted with generic |
+| Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
+
+
 | **Consumable equipment** |
-| Nitril gloves | Content Cell | Content Cell | Content Cell | Content Cell |
-| Paper cloth | Content Cell | Content Cell | Content Cell | Content Cell |
-| Label stickers | Content Cell | Content Cell | Content Cell | Content Cell |
-| Writing utensils | Pens and permanent marker | Generic | 2 |  |
+| Nitril gloves | Powder free nitril gloves | Fisher Scientific | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
+| Paper towl | paper sheets to wipe material dry | Tork universal | 1 package | Can be substituted with generic |
+| Labels | Content Cell | Content Cell | Content Cell | Content Cell |
+| Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
 
 | **Chemicals** |
+| 100% molecular grade EtOH | Molecular biology grade ethanol |  |5 L| Can be substituted with generic, must be molecular biology grade
 | 70% EtOH | Molecular biology grade ethanol | 500 mL |  |
-| 10% bleach | Hypochlorite bleach | Clorox | 400 mL| Remake every ~5 days as bleach decomposes quickly at 10% concentration. The majority is used in bottle/tube sterilization.|
+| 10% bleach | Hypochlorite bleach | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
-| Content Cell | Content Cell | Content Cell | Content Cell | Content Cell |
 
 ## STANDARD OPERATING PROCEDURE
 
@@ -174,22 +178,24 @@ Digital cruise report file:
 
 **Immediately before sampling**
 
-Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a squirt bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
-
-2L commercial drinking water bottles: label five 2L bottles with the pre-printed labels (NameStation_ReplicateNumber) onto the side of the bottles and write down the location and date on the bottle itself with the marker  
-
-Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the faucet; pour 2L drinking water in each Niskin bottle and immediately close the empty plastic bottle; open the faucet to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining water.  
+Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
 
 ### Sampling
 
-This protocol is designed for samples collected with a niskin bottle - the samples are expected to be discrete and sealed masses of water that can be transferred to a 1 L Nalgene bottle without contamination (typically from the spout/spigot of the niskin bottle). For our samples, niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the niskin sampling rosette). 
+This protocol is designed for samples collected with a niskin bottle - the samples are expected to be discrete and to be sealed masses of water that can be transferred to a 2 L commercial plastic drinking water bottle without contamination (typically from the spout/spigot of the niskin bottle). For our samples, niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the niskin sampling rosette). 
 
-Fill 2 L plastic bottle with 2 L of seawater. It is important to do this before the sample seawater has sat on the deck in the sun. After collecting, if you don’t have time to filter, label and store bottles in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal), or in the freezer (-20°C)if filtering will be done later. Note the length of time a seawater sample sits in the fridge/freezer in the cruise report.
+1. Use new gloves for each location and clean them with 10% bleach and 70% ethanol.
+2. Stick the pre-printed labels onto the side of the bottles and write down the location and date on the bottle itself with the marker (sometimes, when the bottles are kept in the freezer and then thawn, the sticker gets loose, so additional writing on the bottle ensures the sample info will not be lost).    
+3. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the faucet
+4. Pour 2L drinking water in each Niskin bottle and immediately close the empty plastic drinking water bottle; open the faucet of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
+5. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. 
+6. Lower the Niskin rosette subsurface and submerge for three minutes to calibrate the CTD. During these three minutes, the open Niskin bottles are flushed with local seawater, ensuring that any carry-over DNA from the previous location is washed away.
+7. After the three minutes, lower the rosette to the desired depth (1 to 3 m above the seafloor) and close the six Niskin bottles. It is important not to hit the floor to avoid upwelling of sediment and damage the CTD. Note down in the campaign report if the CTD touched the seafloor!  
+8. Bring the rosette back onboard of the vessel.
+9. Immediately subsample the Niskin bottles: open the spauget and let water flow for a few seconds to wash away any residual DNA in the spauget; then fill one empty 2 L plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
+10. Repeat this for four other Niskin bottles to reach a total of five 2L plastic drinking water bottles filled with seawater.
+11. After collecting, if you don’t have time to filter, store bottles in the dark in the fridge (4˚C) for up to 12 hours (>4 hours is not ideal), or in the freezer (-20°C) if filtering will be done later. Note the length of time a seawater sample sits in the fridge/freezer in the digital campaign report.
 
-Please specify how you collected samples and note what equipment you used to do so (e.g. targeted water mass, volume, sampling equipment, replication).
-
-1. [Step 1]
-2. [Step 2]
 
 ### Filtration
 

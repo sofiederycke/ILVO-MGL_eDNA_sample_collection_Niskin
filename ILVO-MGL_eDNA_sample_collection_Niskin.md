@@ -149,7 +149,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | Wash bottles | Safety wash bottle 500 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
 | Prefilter mesh | 200 µm mesh size | Generic | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
 | Stacking tray| => Joran, dit zijn degene die Joran gebruikt om de prefilters te wassen
-| Stomacher bags| => Joran, info toevoegen
+| Stomacher bags| | | 1 per batch of 26 prefilters| optional, only if Stomacher device is used to clean the prefilters |
 | Glass bottle| Duran 1L bottle | VWR | 4 | Can be substituted with generic, recipient needs to withstand autoclave procedure | 
 | 10L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
 | PMD bags | Plastic bags to collect the empty water bottles | Generic | 2 | Can be substituted with generic |
@@ -179,7 +179,7 @@ The time needed varies based on the number and type of samples collected. For a 
 5. Switch on the laminar flow, and fill two washing trays with 10% bleach and three with sterile Milli-Q water; keep the 5 trays in the LAF cabinet to avoid any contamination.
 6. Take the prefilters and rinse both sides under running tap water to remove the obvious dirth that is on the filter. Batches of 26 filters are optimal for the trays.
 ------------------------------------------------------------------------------------------------
-**Optional, and recommended if you re-use filters,** is the use of a stomacher device to remove dirth from the filters. Follow steps 7-9 to ensure dirth in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirth is absent, you can immediately go to step 10;
+**Optional, and recommended if filters are re-used between campaigns,** is the use of a stomacher device to remove dirth from the filters. Follow steps 7-9 to ensure dirth in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirth is absent, you can immediately go to step 10;
 
 7.  Place 26 pre-filters in a stomacher plastic bag, and remove excess water from the stomacher bag.
 8.  Add 10% bleach to the stomacher bag (not to full). Press out as much air as possible and close the top of the bag by folding. Leave enough empty space for the bleach to move around when the paddles work or else the bag wil overflow or rip.
@@ -237,7 +237,10 @@ Dukan, N., Cornelis, I., Maes, S., Hostens, K., De Backer, A., Derycke, S. Verti
 
 Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance. 
 
-Cruise report template => Isolde, hebben we hier een template van?
+Cruise report template => Isolde, hebben we hier een template van? Indien wel, dan zouden we dit bestand ook hier bij de files moeten uploaden
+
 Sample metadata template: [ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx](https://github.com/sofiederycke/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx)
-Sticker template => Isolde, kan je link toevoegen?
-Manual for CTD software => Isolde, dat hebben we ook ergens staan denk ik?
+
+Sticker template => Isolde, kan template bestand toevoegen?
+
+Manual for CTD software => Isolde, dat hebben we ook ergens staan denk ik, kun je dit bestand ook toevoegen?

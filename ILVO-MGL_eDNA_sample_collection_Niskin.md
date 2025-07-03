@@ -238,6 +238,6 @@ Dukan, N., Cornelis, I., Maes, S., Hostens, K., De Backer, A., Derycke, S. Verti
 Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance. 
 
 Cruise report template => Isolde, hebben we hier een template van?
-Sample metadata template: [ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx] (
+Sample metadata template: [ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx] (https://github.com/sofiederycke/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx)
 Sticker template => Isolde, kan je link toevoegen?
 Manual for CTD software => Isolde, dat hebben we ook ergens staan denk ik?

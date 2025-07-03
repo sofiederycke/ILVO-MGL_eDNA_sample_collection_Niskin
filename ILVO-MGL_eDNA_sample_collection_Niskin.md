@@ -146,7 +146,8 @@ The time needed varies based on the number and type of samples collected. For a 
 | **Durable equipment** |
 | Commercial drinking water bottles | 2L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
 | Wash bottles | safety wash bottle 500 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
-| Prefilter mesh | 200µm mesh size | Generic | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
+| Prefilter mesh | 200 µm mesh size | Generic | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
+| Washing tray| => Sara, dit zijn degene die Joran gebruikt om de prefilters te wassen
 | 10L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
 | PMD bags | Plastic bags to collect the empty water bottles | Generic | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Generic | 2 | Can be substituted with generic |
@@ -165,9 +166,15 @@ The time needed varies based on the number and type of samples collected. For a 
 
 ### Preparation
 **before embarking**
-Prefilter sterilization: 
-Preprinted labels: 
-Digital cruise report file:
+Prefilter sterilization: 10cm*10cm prefilters are cut from a 200 µm mesh sheet and are used to filter out big pieces of organic material from the seawater to prevent overrepresentation of some species in the eDNA samples. The prefilters are re-used between campaigns. They are washed under tap water to remove the obvious dirth in the filter. After that, filters are submerged in 10% bleach and in sterilised Milli-Q water.
+
+1. Clean 5 washing trays with 10% bleach and sterile Milli-Q water and wipe dry with paper in the LAF cabinet
+2. Swith on the UV light for 30 minutes
+3. Switch on the laminar flow, and fill two washing trays with 10% bleach and three with sterile Milli-Q water
+4. Take the used or unused prefilters and rinse both sides under the tap. This removes the obvious dirth that stuck to the filter.
+5.  
+Preprinted labels: => Isolde, moet hier nog info bij komen?
+Digital cruise report file: => Isolde, moet hier nog info bijkomen?
 
 **Immediately before sampling**
 

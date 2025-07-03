@@ -169,7 +169,7 @@ The time needed varies based on the number and type of samples collected. For a 
 ## STANDARD OPERATING PROCEDURE
 
 ### Preparation
-**before embarking**
+**Before embarking**
 Prefilter sterilization: 10cm*10cm prefilters are cut from a 200 µm mesh sheet and are used to filter out big pieces of organic material from the seawater to prevent overrepresentation in the eDNA samples. The prefilters are re-used between campaigns. They are washed under tap water to remove the obvious dirth in the filter. After that, filters are submerged in 10% bleach and in sterilised Milli-Q water.
 
 1. Add 800 ml Milli-Q water to four 1L Duran glass bottles and sterilise by placing the bottles in the autoclave for 15 minutes at 121°C
@@ -179,7 +179,8 @@ Prefilter sterilization: 10cm*10cm prefilters are cut from a 200 µm mesh sheet 
 5. Switch on the laminar flow, and fill two washing trays with 10% bleach and three with sterile Milli-Q water; keep the 5 trays in the LAF cabinet to avoid any contamination.
 6. Take the prefilters and rinse both sides under running tap water to remove the obvious dirth that is on the filter. Batches of 26 filters are optimal for the trays.
 
-Optional, and recommended if you re-use filters, is the use of a stomacher device to remove dirth from the filters. Follow steps 7-9 to ensure dirth in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirth is absent, you can immediately go to step 8;
+**Optional, and recommended if you re-use filters,** is the use of a stomacher device to remove dirth from the filters. Follow steps 7-9 to ensure dirth in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirth is absent, you can immediately go to step 8;
+
 7.  Place 26 pre-filters in a stomacher plastic bag, and remove excess water from the stomacher bag.
 8.  Add 10% bleach to the stomacher bag (not to full). Press out as much air as possible and close the top of the bag by folding. Leave enough empty space for the bleach to move around when the paddles work or else the bag wil overflow or rip.
 9.  Stomacher for 90 seconds or longer to make sure the bleach passes through all the pores.

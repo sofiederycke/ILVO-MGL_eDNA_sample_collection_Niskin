@@ -194,7 +194,7 @@ The time needed varies based on the number and type of samples collected. For a 
 16.  Place the bag under UV for 20 minutes. The filters are now ready for transport or storage until use.
 
 *Preprinted labels:* => Isolde, moet hier nog info bij komen?
-*Digital cruise report file:* during the cruise, a word document is kept that records the activities per day. In addtion, the metadata of the samples needs to be added in the ILVO-MGL_eDNA_sample_collection
+*Digital cruise report file:* during the cruise, a word document is kept that records the activities per day. In addtion, the metadata of the samples needs to be added in the ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx to ensure all relevant metadata fields are filled in. This file can then directly be used for upload to Biosamples in NCBI.
 
 **Immediately before sampling**
 
@@ -231,15 +231,13 @@ A field blank is taken at the start and end of each campaign to assess possible 
 
 ## REFERENCES
 
-- Insert all references cited in the document.
-- Please insert full DOI address when available, e.g. http://doi.dx.org/10.1007/s11258-014-0404-1.
-
-Dukan et al. 2024
+Dukan, N., Cornelis, I., Maes, S., Hostens, K., De Backer, A., Derycke, S. Vertical and horizontal environmental DNA (eDNA) patterns of fish in a shallow and well-mixed North Sea area. Sci Rep 14, 16748 (2024). https://doi.org/10.1038/s41598-024-66912-2
 
 ## APPENDIX A: DATASHEETS
 
 Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance. 
 
-Cruise report template
-Sticker template
-manual for CTD software
+Cruise report template => Isolde, hebben we hier een template van?
+Sample metadata template
+Sticker template => Isolde, kan je link toevoegen?
+Manual for CTD software => Isolde, dat hebben we ook ergens staan denk ik?

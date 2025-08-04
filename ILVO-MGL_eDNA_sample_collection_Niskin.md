@@ -58,7 +58,7 @@ samp_size_unit: mL
 | PREPARED BY  | AFFILIATION  | ORCID        | DATE       |
 | ------------ | ------------ | ------------ | ---------- |
 | Sofie Derycke | ILVO Marine, MGL | 0000-0003-3763-6187 | 2025-06-11 |
-| Isolde Cornelis | ILVO Marine, MGL | 0009-0006-0636-2477 | yyyy-mm-dd |
+| Isolde Cornelis | ILVO Marine, MGL | 0009-0006-0636-2477 | 2025-08-04 |
 | Sara Maes | ILVO Marine, MGL | 0000-0003-2868-4769 | yyyy-mm-dd |
 ### Related Protocols
 
@@ -92,6 +92,7 @@ samp_size_unit: mL
 |DNA	|Deoxyribonucleic acid |
 |eDNA	|environmental DNA |
 |EtOH | Ethanol |
+|PPE | Personal protective equipment
 
 ### Glossary
 
@@ -112,15 +113,15 @@ This protocol is intended to collect eDNA onboard research vessels to assess mar
 
 ### Method Description and Rationale
 
-This protocol uses Niskin bottles mounted on a CTD rosette onboard a research vessel to collect seawater. In each sample location, five Niskin bottles are filled with seawater collected at a depth of 1 to 3 m above the seafloor. From each Niskin bottle, a subsample of 2L is collected. The number of Niskin bottles in a location has been determined based on collecting 10 Niskin bottles in five stations located in known fish communities (coastal, transition and offshore). 12S metabarcoding results showed an increased number of fishes detected with increasing number of replicates. A trade-off between sampling effort and maximal detection of the common fishes led to the collection of 5 bottles to adequately describe fish biodiversity patterns. If rare species are also of interest, then more Niskin bottles should be collected. Increasing the number to 10 bottles leads on average to the detection of four extra species. Depending on the research vessel, further processing is done in a separate lab onboard (RV Belgica) or in the lab at ILVO (Simon Stevin). This processing involves filtering of the water using sterivex 0.45µm capsule filters, which are then used for eDNA extraction and metabarcoding or dPCR. 
+This protocol uses Niskin bottles mounted on a CTD rosette onboard a research vessel to collect seawater. In each sample location, five Niskin bottles are filled with seawater collected at a depth of 1 to 3 m above the seafloor. From each Niskin bottle, a subsample of 2 L is collected. The number of collected Niskin bottles in a location has been determined based on data gathered from collecting 10 Niskin bottles in five stations located in known fish communities (coastal, transition and offshore). The 12S metabarcoding results showed an increased number of fishe species detected with an increasing number of replicates. A trade-off between sampling effort and maximal detection of the common fishe species led to the decision to collect 5 Niskin bottles per location to adequately describe fish biodiversity patterns. If also rare species are of interest, then more Niskin bottles should be collected. Increasing the number to 10 Niskin bottles leads, on average, to the detection of four additional species. Depending on the research vessel, further processing is done in a separate lab onboard (RV Belgica) or in the lab at ILVO (RV Simon Stevin). This processing involves filtering of the water using sterivex 0.45µm capsule filters, which are then used for eDNA extraction and metabarcoding or dPCR. 
 
 ### Spatial Coverage and Environment(s) of Relevance
 
-This protocol has been applied for hundreds of samples collected in the southern North Sea. Samples have been collected in the belgian part of the North Sea during spring and autumn campaigns since 2021 at various distances from shore (coastal, transition and offshore locations). This protocol is also applied for surveys in the southern bight of the North Sea (maximum depth 50 m). All samples are taken in the photic zone and are situated in the neritic pelagic zone. 
+This protocol has been applied for hundreds of samples collected in the Southern North Sea. Samples have been collected in the Belgian part of the North Sea during spring and autumn campaigns since 2021 at various distances from shore (coastal, transition and offshore locations). This protocol is also applied for surveys in the Southern Bight of the North Sea (maximum depth 50 m). All samples are taken in the photic zone and are situated in the neritic pelagic zone. 
 
 ## PERSONNEL REQUIRED
 
-One technician or scientist with experience in sterile and clean working and with research vessel experience. 
+One technician or scientist with experience in working in a clean and sterile manner and experience in working on a research vessel.
 
 ### Safety
 
@@ -132,7 +133,7 @@ Training for working onboard a research vessel and for working sterile is requir
 
 ### Time Needed to Execute the Procedure
 
-The time needed varies based on the number and type of samples collected. For a majority of our sampling, five niskin bottles on a CTD rosette are triggered to collect sea water at one depth (e.g., 1-3 m off bottom depending on the weather conditions). Then a singular sample is collected from each niskin. A cast in the southern Bight of the North Sea is at most 50 m deep and takes roughly 10 minutes (including 3 minutes of calibration time subsurface for the CTD sensors). Collecting a 2L subsample from one niskin takes between 2-5 minutes, depending on access and size of the Niskin bottle (larger botlles are faster to subsample because there is more pressure on the water to flow out of the Niskin spout/spigot). The total collection time for a singular cast with five niskins triggered and one sample taken from each niskin is 35 minutes on average.
+The time needed varies based on the number and type of samples collected. For a majority of our sampling, five Niskin bottles on a CTD rosette are triggered to collect sea water at one depth (e.g., 1-3 m above the bottom depending on the weather conditions). Then a singular sample is collected from each Niskin bottle. A cast in the Southern Bight of the North Sea is at most 50 m deep and takes roughly 10 minutes (including 3 minutes of calibration time subsurface for the CTD sensors). Collecting a 2 L subsample from one Niskin bottle takes between 2-5 minutes, depending on access and size of the Niskin bottle (larger botlles are faster to subsample because there is more pressure on the water to flow out of the Niskin bottle sampling valve). The total collection time for a singular cast with five Niskin bottles triggered and one sample taken from each Niskin bottle is 35 minutes on average.
 
 ## EQUIPMENT
 
@@ -145,7 +146,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
-| Commercial drinking water bottles | 2L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
+| Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
 | Wash bottles | Safety wash bottle 500 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
 | Prefilter mesh | 200 µm mesh size | Sara? | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
 | Stacking tray| => Sara, dit zijn degene die Joran gebruikt om de prefilters te wassen
@@ -171,30 +172,30 @@ The time needed varies based on the number and type of samples collected. For a 
 ### Preparation
 **Before embarking**
 
-*Prefilter sterilization:* 10cm*10cm prefilters are cut from a 200 µm mesh sheet and are used to filter out big pieces of organic material from the seawater to prevent overrepresentation in the eDNA samples. The prefilters are re-used between campaigns. They are washed under tap water to remove the obvious dirth in the filter. After that, filters are submerged in 10% bleach and in sterilised Milli-Q water.
+*Prefilter sterilization:* 10cm*10cm prefilters are cut from a 200 µm mesh sheet and are used to filter out big pieces of organic material from the seawater to prevent overrepresentation in the eDNA samples. The prefilters are re-used between campaigns. They are washed under tap water to remove the obvious dirt in the filter. After that, filters are submerged in 10% bleach and in sterilised Milli-Q water.
 
 1. Add 800 ml Milli-Q water to four 1L Duran glass bottles and sterilise by placing the bottles in the autoclave for 15 minutes at 121°C
 2. Clean the work surface of the LAF cabinet with 10% bleach and 70% ethanol.
 3. Clean 5 washing trays with 10% bleach and sterile Milli-Q water and wipe dry with paper in the LAF cabinet; put the five trays next to each other in the LAF cabinet.
-4. Swith on the UV light for 30 minutes
+4. Switch on the UV light for 30 minutes
 5. Switch on the laminar flow, and fill two washing trays with 10% bleach and three with sterile Milli-Q water; keep the 5 trays in the LAF cabinet to avoid any contamination.
-6. Take the prefilters and rinse both sides under running tap water to remove the obvious dirth that is on the filter. Batches of 26 filters are optimal for the trays.
+6. Take the prefilters and rinse both sides under running tap water to remove the obvious dirt that is on the filter. Batches of 26 filters are optimal for the trays.
 ------------------------------------------------------------------------------------------------
-*Optional, and recommended if filters are re-used between campaigns,* is the use of a stomacher device to remove dirth from the filters. Follow steps 7-9 to ensure dirth in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirth is absent, you can immediately go to step 10;
+*Optional, and recommended if filters are re-used between campaigns,* is the use of a stomacher device to remove dirt from the filters. Follow steps 7-9 to ensure dirt in the filters is removed (this part is outside the LAF cabinet); if you use the filters for the first time or visible dirt is absent, you can immediately go to step 10;
 
 7.  Place 26 pre-filters in a stomacher plastic bag, and remove excess water from the stomacher bag.
 8.  Add 10% bleach to the stomacher bag (not to full). Press out as much air as possible and close the top of the bag by folding. Leave enough empty space for the bleach to move around when the paddles work or else the bag wil overflow or rip.
 9.  Stomacher for 90 seconds or longer to make sure the bleach passes through all the pores.
 ------------------------------------------------------------------------------------------------  
 10.  In the LAF cabinet, take the filters one by one and place them in the first bleach bath and flip the filter a couple of times to expose both sides to the bleach, then transfer to the second bleach bath. Release the filter to ensure the full surface is in contact with the bleach for a few minutes.
-11.  Transfer the filter in the first water bath and leave it there until all 26 filters are processed.
-12.  Transfer the filters two the second water bath and then to the third water bath. In this way, the bleach gets removed from the filters.
-13.  When all 26 filters are in the last water bath, pour away the water and replace with sterile Milli-Q water to ensure all bleach is completely removed.
+11.  Transfer the filter to the first water bath and leave it there until all 26 filters are processed.
+12.  Transfer the filters to the second water bath and then to the third water bath. This way, the bleach is removed from the filters.
+13.  When all 26 filters are in the last water bath, pour away the water and replace with sterile Milli-Q water to ensure that all bleach is completely removed.
 14.  Place all the filters in a ziplock bag, remove excess water and close the bag.
 15.  Write the date of cleaning and the number of filters inside the bag with a permanent marker on the bag.
 16.  Place the bag under UV for 20 minutes. The filters are now ready for transport or storage until use.
 
-*Preprinted labels:* Each 2L commercial drinking water bottle is labelled with a sticker that contains the name of the station and the replicate number (eg ft120_1). The stations and number of replicate samples (Niskin bottles) is usually known before embarking, the stickers are therefore preprinted. Blanc stickers are also provided in case the smpling scheme deviates from the orgincal plan. 
+*Preprinted labels:* Each 2-liter commercial drinking water bottle is labelled with a sticker that contains the name of the station and the replicate number (eg ft120_1). The stations and number of replicate samples (Niskin bottles) are usually known before embarking, the stickers are therefore preprinted. Blanc stickers are also provided in case the sampling scheme deviates from the original plan. 
 
 *Digital cruise report file:* during the cruise, a word document is kept that records the activities per day. In addtion, the metadata of the samples needs to be added in the ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx to ensure all relevant metadata fields are filled in. This file can then directly be used for upload to Biosamples in NCBI.
 
@@ -204,19 +205,19 @@ Glove Sterilization: Sterile nitrile gloves must be worn at all times during the
 
 ### Sampling
 
-This protocol is designed for samples collected with a niskin bottle - the samples are expected to be discrete and to be sealed masses of water that can be transferred to a 2 L commercial plastic drinking water bottle without contamination (typically from the spout/spigot of the niskin bottle). For our samples, niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the niskin sampling rosette). 
+This protocol is designed for samples collected with a Niskin bottle - the samples are expected to be discrete and to be sealed masses of water that can be transferred to a 2-liter commercial plastic drinking water bottle without contamination (typically from the sampling valve of the Niskin bottle). For our samples, Niskin bottles are remotely triggered to close at a specified depth and collected alongside complementary hydrographic data (using a CTD attached to the niskin sampling rosette). 
 
 1. Use new gloves for each location and clean them with 10% bleach and 70% ethanol.
 2. Stick the pre-printed labels onto the side of the bottles and write down the location and date on the bottle itself with the marker (sometimes, when the bottles are kept in the freezer and then thawn, the sticker gets loose, so additional writing on the bottle ensures the sample info will not be lost).    
-3. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the faucet
-4. Pour 2L drinking water in each Niskin bottle and immediately close the empty plastic drinking water bottle; open the faucet of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
-5. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. 
+3. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the sampling valve.
+4. Pour 2 L of drinking water in each Niskin bottle and immediately close the empty commercial plastic drinking water bottle; open the sampling valve of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
+5. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. The air and sampling valves must be closed before deployment of the rosette.
 6. Lower the Niskin rosette subsurface and submerge for three minutes to calibrate the CTD. During these three minutes, the open Niskin bottles are flushed with local seawater, ensuring that any carry-over DNA from the previous location is washed away.
 7. After the three minutes, lower the rosette to the desired depth (1 to 3 m above the seafloor) and close the six Niskin bottles. It is important not to hit the floor to avoid upwelling of sediment and damage the CTD. Note down in the campaign report if the CTD touched the seafloor!  
 8. Bring the rosette back onboard of the vessel.
-9. Immediately subsample the Niskin bottles: open the spauget and let water flow for a few seconds to wash away any residual DNA in the spauget; then fill one empty 2 L plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
-10. Close the 2L bottle and put the prefilter in a ziplock bag (all prefilters can be reused after sterilisation with bleach and sterile milliQ water)
-11. Repeat this for four other Niskin bottles to reach a total of five 2L plastic drinking water bottles filled with seawater.
+9. Immediately subsample the Niskin bottles: open the air and sampling valve and let water flow for a few seconds to wash away any residual DNA in the sampling valve; then fill one empty 2-liter commercial plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
+10. Close the 2-liter commercial plastic bottle and put the prefilter in a ziplock bag (all prefilters can be reused after sterilisation with bleach and sterile milliQ water)
+11. Repeat this for four other Niskin bottles to reach a total of five 2-liter commercial plastic drinking water bottles filled with 2 L of seawater.
 
 ### Storage
 

@@ -88,11 +88,18 @@ samp_size_unit: mL
 | ------------- | ------------- |
 |ILVO | Flanders Research Institute for Agriculture, Fisheries and Food |
 |CTD | Conductivity Temperature Depth |
+|RV | Research Vessel |
 |LAF| Laminar Flow |
-|DNA	|Deoxyribonucleic acid |
-|eDNA	|environmental DNA |
+|DNA	| Deoxyribonucleic acid |
+|eDNA	| environmental DNA |
+|dPCR | digital PCR |
 |EtOH | Ethanol |
-|PPE | Personal protective equipment
+|PPE | Personal Protective Equipment |
+|m | meter |
+|mm | millimeter |
+|L | liter |
+|ml | milliliter |
+|C | Celcius |
 
 ### Glossary
 
@@ -125,7 +132,7 @@ One technician or scientist with experience in working in a clean and sterile ma
 
 ### Safety
 
-This protocol does not involve any hazardous chemicals, although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and ethanol.
+(This protocol does not involve any hazardous chemicals) is hazardous although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and ethanol. 10 % bleach is hazardous
 
 ### Training Requirements
 
@@ -147,25 +154,25 @@ The time needed varies based on the number and type of samples collected. For a 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
 | Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
-| Wash bottles | Safety wash bottle 500 ml for 10 % bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
-| Prefilter mesh | 200 µm mesh size | Sara? | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
-| Stacking tray| => Sara, dit zijn degene die Joran gebruikt om de prefilters te wassen
-| Stomacher bags| |Sara? | 1 per batch of 26 prefilters| optional, only if Stomacher device is used to clean the prefilters |
-| Glass bottle| Duran 1L bottle | VWR | 4 | Can be substituted with generic, recipient needs to withstand autoclave procedure | 
-| 10L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
+| Safety wash bottles | Safety wash bottle 250 ml for 10% bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
+| Prefilter mesh | 200 µm mesh size | Sefar | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
+| Stacking tray | 1 L tray | Generic | 3 | |
+| Stomacher bags| blenderbag | Interscience | 1 per batch of 26 prefilters| optional, only if Stomacher device is used to clean the prefilters |
+| Glass bottle | Duran 1L bottle | Duran | 4 | Can be substituted with generic, recipient needs to withstand autoclave procedure | 
+| 10 L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
 | PMD bags | Plastic bags to collect the empty water bottles | Sara? | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Sara? | 2 | Can be substituted with generic |
 | Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
 | **Consumable equipment** |
-| Nitril gloves | Powder free nitril gloves | Fisher Scientific | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
+| SHIELDskin orange nitrile 260 gloves | Powder free nitril gloves | Novolab | 1 box per size | Can be subsituted with generic nitrile gloves. Does not come sterile, must be sterilized before use (10% bleach followed by 70% EtOH) |
 | Paper towl | paper sheets to wipe material dry | Tork universal | 1 package | Can be substituted with generic |
-| Stickers | Sara? | Sara? | Content Cell | Can be substituted with generic; stickers are preprinted in the lab, blanc stickers are also provided as back-up|
+| Labels | 105 x 48 mm | HERMA premium | 1 package | Can be substituted with generic; stickers are preprinted in the lab, blanc stickers are also provided as back-up |
 | Writing utensils | Pencil and permanent marker | Generic | 2 | Not made of wood - must be able to be wiped down with bleach/EtOH |
 | **Chemicals** |
-| 100% molecular grade EtOH | Molecular biology grade ethanol |  |5 L| Can be substituted with generic, must be molecular biology grade |
-| 70% EtOH | Molecular biology grade ethanol | 500 mL |  |
-| 10% bleach | Hypochlorite bleach | Clorox | 2 L| Remake every ~5 days as bleach decomposes quickly at 10% concentration |
-| Milli-Q water | => Sara, info toevoegen
+| Ethanol absolute | Ethanol absolute | AnalytiChem | 5 L | Can be substituted with generic, must be molecular biology grade |
+| Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
+| 10% bleach | Sodium hypochloride | Colruyt | 2 L | Remake every ~5 days as bleach decomposes quickly at 10% concentration |
+| Milli-Q water | Sartorius | Sartorius arium device | | |
 
 ## STANDARD OPERATING PROCEDURE
 
@@ -201,7 +208,7 @@ The time needed varies based on the number and type of samples collected. For a 
 
 **Immediately before sampling**
 
-Glove Sterilization: Sterile nitrile gloves must be worn at all times during the sterilization, sampling, filtering, preservation and storage steps. Gloves directly from the box are not considered sterile. To sterilize, put on a new pair of gloves, squirt 10% bleach solution from a wash bottle onto the gloves and rub hands together, then squirt with EtOH to get rid of bleach residue.  
+Wear new gloves on every location. Keep in mind not to touch your face ed with them. In case you do, change gloves immediately.
 
 ### Sampling
 
@@ -209,15 +216,16 @@ This protocol is designed for samples collected with a Niskin bottle - the sampl
 
 1. Use new gloves for each location and clean them with 10% bleach and 70% ethanol.
 2. Stick the pre-printed labels onto the side of the bottles and write down the location and date on the bottle itself with the marker (sometimes, when the bottles are kept in the freezer and then thawn, the sticker gets loose, so additional writing on the bottle ensures the sample info will not be lost).    
-3. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the sampling valve.
-4. Pour 2 L of drinking water in each Niskin bottle and immediately close the empty commercial plastic drinking water bottle; open the sampling valve of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
-5. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. The air and sampling valves must be closed before deployment of the rosette.
-6. Lower the Niskin rosette subsurface and submerge for three minutes to calibrate the CTD. During these three minutes, the open Niskin bottles are flushed with local seawater, ensuring that any carry-over DNA from the previous location is washed away.
-7. After the three minutes, lower the rosette to the desired depth (1 to 3 m above the seafloor) and close the six Niskin bottles. It is important not to hit the floor to avoid upwelling of sediment and damage the CTD. Note down in the campaign report if the CTD touched the seafloor!  
-8. Bring the rosette back onboard of the vessel.
-9. Immediately subsample the Niskin bottles: open the air and sampling valve and let water flow for a few seconds to wash away any residual DNA in the sampling valve; then fill one empty 2-liter commercial plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
-10. Close the 2-liter commercial plastic bottle and put the prefilter in a ziplock bag (all prefilters can be reused after sterilisation with bleach and sterile milliQ water)
-11. Repeat this for four other Niskin bottles to reach a total of five 2-liter commercial plastic drinking water bottles filled with 2 L of seawater.
+3. The negative field controls Niskin were taken just before sampling. Rinse one bottle like you would do before sampling, close the Niskin bottle at the bottom and fill it with one 2-liter bottle of commercial drinking water. Then collect the water from the Niskin bottle in the empty bottle. The Niskin rosette is now ready for sampling as there is no need to rinse the Niskin bottle again. The sample can then be collected from the bottle that was used to rinse the Niskin bottle.
+4. Niskin bottles: open six bottles at the top and ensure the rosette is balanced (choose three bottles in front of each other), close the bottom stopper and close the sampling valve.
+5. Pour 2 L of drinking water in each Niskin bottle and immediately close the empty commercial plastic drinking water bottle; open the sampling valve of the Niskin bottle to flush it with the drinking water; afterwards, open the bottom stopper to remove the remaining drinking water from the Niskin. This flushing with drinking water does not sterilize the Niskin bottles, but we have the water anyway, so we may as well use it to clean the Niskin bottles a bit.
+6. The top and bottom stoppers of the Niskin bottles should be open before deployment of the rosette. The air and sampling valves must be closed before deployment of the rosette.
+7. Lower the Niskin rosette subsurface and submerge for three minutes to calibrate the CTD. During these three minutes, the open Niskin bottles are flushed with local seawater, ensuring that any carry-over DNA from the previous location is washed away.
+8. After the three minutes, lower the rosette to the desired depth (1 to 3 m above the seafloor) and close the six Niskin bottles. It is important not to hit the floor to avoid upwelling of sediment and damage the CTD. Note down in the campaign report if the CTD touched the seafloor!  
+9. Bring the rosette back onboard of the vessel.
+10. Immediately subsample the Niskin bottles: open the air and sampling valve and let water flow for a few seconds to wash away any residual DNA in the sampling valve; then fill one empty 2-liter commercial plastic bottle with 2 L of seawater from one Niskin bottle using a sterile pre-filter.
+11. Close the 2-liter commercial plastic bottle and put the prefilter in a ziplock bag (all prefilters can be reused after sterilisation with bleach and sterile milliQ water)
+12. Repeat this for four other Niskin bottles to reach a total of five 2-liter commercial plastic drinking water bottles filled with 2 L of seawater.
 
 ### Storage
 

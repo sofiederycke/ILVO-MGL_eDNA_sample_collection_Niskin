@@ -248,10 +248,15 @@ Dukan, N., Cornelis, I., Maes, S., Hostens, K., De Backer, A., Derycke, S. Verti
 
 Link templates (e.g. preformatted spreadsheets) used to record measurements and report on the quality of the data as well as any documents such as manufacturer specifications, images, etc that support this protocol. Please include a short note describing the document's relevance. 
 
-Cruise report template => Isolde, hebben we hier een template van? Indien wel, dan zouden we dit bestand ook hier bij de files moeten uploaden
+Cruise report template: [ILVO-MGL_eDNA_sample_collection_Niskin_Template_Campaign-Report.docx](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Template_Campaign-Report.docx)
 
 Sample metadata template: [ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx](https://github.com/sofiederycke/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx)
 
-Sticker template => Isolde, kan template bestand toevoegen?
+Sticker template:
+- Big labels: [ILVO-MGL_eDNA_sample_collection_Niskin_Template_Big-Labels.docx](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Template_Big-Labels.docx)
+- Small labels: [ILVO-MGL_eDNA_sample_collection_Niskin_Template_Small-Labels.docx](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Template_Small-Labels.docx)
 
-Manual for CTD software => Isolde, dat hebben we ook ergens staan denk ik, kun je dit bestand ook toevoegen?
+Manual for CTD software:
+- RV Belgica: [ILVO-MGL_eDNA_sample_collection_Niskin_Manual_Niskin-CDT-software_RVBelgica.pdf](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Manual_Niskin-CDT-software_RVBelgica.pdf)
+- RV Simon Stevin: [ILVO-MGL_eDNA_sample_collection_Niskin_Manual_Niskin-CDT-software_RVSimonStevin.pdf](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Manual_Niskin-CDT-software_RVSimonStevin.pdf)
+- Manual Seasave V7 (Sea-Bird Scientific): [ILVO-MGL_eDNA_sample_collection_Niskin_Manual-CDT-Software_Seasave.pdf](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Manual-CDT-Software_Seasave.pdf)

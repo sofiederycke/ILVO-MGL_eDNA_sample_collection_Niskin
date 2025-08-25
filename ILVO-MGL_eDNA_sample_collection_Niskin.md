@@ -254,4 +254,4 @@ Manual for CTD software:
 - RV Simon Stevin: [ILVO-MGL_eDNA_sample_collection_Niskin_Manual_Niskin-CDT-software_RVSimonStevin.pdf](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Manual_Niskin-CDT-software_RVSimonStevin.pdf)
 - Manual Seasave V7 (Sea-Bird Scientific): [ILVO-MGL_eDNA_sample_collection_Niskin_Manual-CDT-Software_Seasave.pdf](https://github.com/icornelis90-ilvo/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/ILVO-MGL_eDNA_sample_collection_Niskin_Manual-CDT-Software_Seasave.pdf)
 
-Picture of prefilter to take the negative field control: 
+Picture of prefilter to take the negative field control: [Prefilter_Neg_field_control.jpg](https://github.com/sofiederycke/ILVO-MGL_eDNA_sample_collection_Niskin/blob/main/Prefilter_Neg_field_control.jpg)

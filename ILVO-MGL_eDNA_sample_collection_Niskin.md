@@ -59,18 +59,10 @@ samp_size_unit: mL
 | ------------ | ------------ | ------------ | ---------- |
 | Sofie Derycke | ILVO Marine, MGL | 0000-0003-3763-6187 | 2025-06-11 |
 | Isolde Cornelis | ILVO Marine, MGL | 0009-0006-0636-2477 | 2025-08-04 |
-| Sara Maes | ILVO Marine, MGL | 0000-0003-2868-4769 | yyyy-mm-dd |
+| Sara Maes | ILVO Marine, MGL | 0000-0003-2868-4769 | 2025-08-08 |
 ### Related Protocols
 
-- This section contains protocols that should be known to users of this protocol.
-- Include the link to each protocol.
-- Include the version number and release date (if available).
-- Internal/External: "Internal" are derivative or altered protocols, or other protocols in this workflow. "External" are protcols from manufacturers or other groups.
-
-| PROTOCOL NAME | LINK         | VERSION      | RELEASE DATE | INTERNAL/EXTERNAL |
-| ------------- | ------------ | ------------ | ------------ | ----------------- |
-| Content Cell  | Content Cell | Content Cell | yyyy-mm-dd   | Content Cell      |
-| Content Cell  | Content Cell | Content Cell | yyyy-mm-dd   | Content Cell      |
+- No other protocols are needed to execute this protocol. Older version of the protocol are available in the Marine Genomics Lab sharepoint in the section "Sampling Campaigns".
 
 ### Protocol Revision Record
 
@@ -80,7 +72,7 @@ samp_size_unit: mL
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | 2025-06-11 | Initial release |
+| 1.0.0 | 2025-08-25 | Initial release |
 
 ### Acronyms and Abbreviations
 
@@ -132,7 +124,7 @@ One technician or scientist with experience in working in a clean and sterile ma
 
 ### Safety
 
-(This protocol does not involve any hazardous chemicals) is hazardous although standard precautions including wearing PPE should be taken to avoid skin and eye exposure to bleach and ethanol. 10 % bleach is hazardous
+This protocol involves 10 % bleach which is hazardous. Standard precautions include wearing PPE to avoid skin and eye exposure to bleach and ethanol. 
 
 ### Training Requirements
 
@@ -144,23 +136,17 @@ The time needed varies based on the number and type of samples collected. For a 
 
 ## EQUIPMENT
 
-- Description: E.g., "filter".
-- Product Name and Model: Provide the official name of the product.
-- Manufacturer: Provide the name of the manufacturer of the product.
-- Quantity: Provide quantities necessary for one application of the standard operating procedure (e.g., number of filters).
-- Remark: For example, some of the consumable may need to be sterilized, some commercial solution may need to be diluted or shielded from light during the operating procedure.
-
 | DESCRIPTION | PRODUCT NAME AND MODEL | MANUFACTURER | QUANTITY | REMARK |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | **Durable equipment** |
-| Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for field controls | Can be substituted with similar clean drinking water bottles  |
+| Commercial drinking water bottles | 2 L Everyday | Colruyt | 5 per cast + 4 for negative controls | Can be substituted with similar clean drinking water bottles  |
 | Safety wash bottles | Safety wash bottle 250 ml for 10% bleach or 70% ethanol | VWR | 2 | Can be substituted with generic |
 | Prefilter mesh | 200 µm mesh size | Sefar | 5 per cast | Must be sterilized with 10% bleach and sterile MilliQ water |
-| Stacking tray | 1 L tray | Generic | 3 | |
+| Stacking tray | 1 L tray | Generic | 3 | Is used to clean the prefilters|
 | Stomacher bags| blenderbag | Interscience | 1 per batch of 26 prefilters| optional, only if Stomacher device is used to clean the prefilters |
 | Glass bottle | Duran 1L bottle | Duran | 4 | Can be substituted with generic, recipient needs to withstand autoclave procedure | 
 | 10 L bucket | Plastic, white bucket | Generic | 2 | Can be substituted with generic |
-| PMD bags | Plastic bags to collect the empty water bottles | Sara? | 2 | Can be substituted with generic |
+| PMD bags | Plastic bags to collect the empty water bottles | Colruyt | 2 | Can be substituted with generic |
 | Ziplock bags | Plastic bags to store sterile prefilters and to collect used prefilters | Sara? | 2 | Can be substituted with generic |
 | Field lab sheet | Paper sheet with sample locations | Generic | 1 | Can be substituted with generic; is used to write down sampling date and volume filtered |
 | **Consumable equipment** |
@@ -172,7 +158,7 @@ The time needed varies based on the number and type of samples collected. For a 
 | Ethanol absolute | Ethanol absolute | AnalytiChem | 5 L | Can be substituted with generic, must be molecular biology grade |
 | Disolol | Disolol Technisolv | AnalytiChem | 5 L | Can be sustituted with generic |
 | 10% bleach | Sodium hypochloride | Colruyt | 2 L | Remake every ~5 days as bleach decomposes quickly at 10% concentration |
-| Milli-Q water | Sartorius | Sartorius arium device | | |
+| Milli-Q water | Sartorius | Sartorius arium device | 4*800 mL | |
 
 ## STANDARD OPERATING PROCEDURE
 
@@ -202,13 +188,13 @@ The time needed varies based on the number and type of samples collected. For a 
 15.  Write the date of cleaning and the number of filters inside the bag with a permanent marker on the bag.
 16.  Place the bag under UV for 20 minutes. The filters are now ready for transport or storage until use.
 
-*Preprinted labels:* Each 2-liter commercial drinking water bottle is labelled with a sticker that contains the name of the station and the replicate number (eg ft120_1). The stations and number of replicate samples (Niskin bottles) are usually known before embarking, the stickers are therefore preprinted. Blanc stickers are also provided in case the sampling scheme deviates from the original plan. 
+*Preprinted labels:* Each 2-liter commercial drinking water bottle is labelled with a sticker that contains the name of the station and the replicate number (eg ft120_1). The stations and number of replicate samples (Niskin bottles) are usually known before embarking, the stickers are therefore preprinted using the ILVO-MGL_eDNA_sample_collection_Niskin_Template_Big-Labels.docx template. Blanc stickers are also provided in case the sampling scheme deviates from the original plan. 
 
-*Digital cruise report file:* during the cruise, a word document is kept that records the activities per day. In addtion, the metadata of the samples needs to be added in the ILVO-MGL_eDNA_sample_collection_MIMARKS.survey.water.6.0_template.xlsx to ensure all relevant metadata fields are filled in. This file can then directly be used for upload to Biosamples in NCBI.
+*Digital cruise report file:* during the cruise, the word document ILVO-MGL_eDNA_sample_collection_Niskin_Template_Campaign-Report.docx is updated and records the activities per day. In addtion, the metadata of the samples needs to be added in the Smartfish_WaterSampling_TEMPLATE.xlsx to ensure all relevant metadata fields are filled in. This file can then be converted to the MIMARKS file for upload to Biosamples in NCBI.
 
 **Immediately before sampling**
 
-Wear new gloves on every location. Keep in mind not to touch your face ed with them. In case you do, change gloves immediately.
+Wear new gloves on every location. Keep in mind not to touch your face or other parts with them. In case you do, change gloves immediately or clean with 10% bleach.
 
 ### Sampling
 
